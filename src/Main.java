@@ -47,4 +47,5 @@ public class Main {
         System.out.println(mercerdes);
         System.out.println(scania);
     }
+
 }
